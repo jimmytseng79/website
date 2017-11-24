@@ -1,2 +1,2 @@
-# Lab website
-[¦Ü¹êÅç«Çºô­¶](https://jimmytseng79.github.io/website/)
+# Laboratory website
+[è‡´å¯¦é©—å®¤ç¶²é ](https://jimmytseng79.github.io/website/)
